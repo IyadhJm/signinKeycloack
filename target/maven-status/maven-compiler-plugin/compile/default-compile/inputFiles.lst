@@ -1,0 +1,11 @@
+/home/iyadh/Bureau/signin/src/main/java/com/example/signin/config/KeycloakResolverConfig.java
+/home/iyadh/Bureau/signin/src/main/java/com/example/signin/httpRequest/CreateUserRequest.java
+/home/iyadh/Bureau/signin/src/main/java/com/example/signin/service/KeycloakAdminClientService.java
+/home/iyadh/Bureau/signin/src/main/java/com/example/signin/controller/UserController.java
+/home/iyadh/Bureau/signin/src/main/java/com/example/signin/httpRequest/LoginRequest.java
+/home/iyadh/Bureau/signin/src/main/java/com/example/signin/config/KeycloakProvider.java
+/home/iyadh/Bureau/signin/src/main/java/com/example/signin/config/KeycloakSecurityConfig.java
+/home/iyadh/Bureau/signin/src/main/java/com/example/signin/repository/UserRepository.java
+/home/iyadh/Bureau/signin/src/main/java/com/example/signin/repository/LoginRepository.java
+/home/iyadh/Bureau/signin/src/main/java/com/example/signin/controller/HelloController.java
+/home/iyadh/Bureau/signin/src/main/java/com/example/signin/SigninApplication.java
